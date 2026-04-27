@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+generated_project/
+logs/
+*.db
+.code-review-graph/
